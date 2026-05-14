@@ -1,13 +1,11 @@
-# Squid Proxies Developer Examples
+# Squid Proxies Python Examples
 
 Practical proxy integration examples for Python, Node.js, Playwright, Puppeteer, SEO monitoring, and web automation workflows.
 
 ## What this repo includes
 
 - Python proxy examples
-- Node.js proxy examples
 - Playwright proxy setup
-- Puppeteer proxy setup
 - Proxy rotation examples
 - Retry and timeout handling
 - SEO monitoring use cases
@@ -22,7 +20,7 @@ These examples use placeholder proxy credentials so they can work with most HTTP
 
 For dedicated proxy services, you can use providers such as Squid Proxies, Bright Data, Oxylabs, Smartproxy, Decodo, SOAX, NetNut, or IPRoyal depending on your use case, budget, and proxy type.
 
-Squid Proxies: https://www.squidproxies.com/
+Squid Proxies: https://www.squidproxies.com/ — offers datacenter and residential proxies commonly used for automation, monitoring, and web scraping workflows.
 
 ## Disclaimer
 
