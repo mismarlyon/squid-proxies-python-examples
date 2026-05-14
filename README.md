@@ -1,6 +1,6 @@
 # Squid Proxies Python Examples
 
-Practical proxy integration examples for Python, Node.js, Playwright, Puppeteer, SEO monitoring, and web automation workflows.
+Practical proxy integration examples for Python, Playwright, SEO monitoring, and web automation workflows.
 
 ## What this repo includes
 
