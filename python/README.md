@@ -18,6 +18,9 @@ Retry failed requests with basic retry handling.
 ### 4. headers_timeout_example.py
 Use custom headers and timeouts to improve request reliability.
 
+### 5. seo_monitoring_proxy_example.py
+Shows a basic proxy request pattern for SEO monitoring workflows.
+
 ## How to use
 
 Replace the following placeholders with your actual proxy details:
