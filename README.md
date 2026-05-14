@@ -16,6 +16,14 @@ Practical proxy integration examples for Python, Node.js, Playwright, Puppeteer,
 
 Developers, SEO teams, automation builders, and data collection teams who need simple proxy setup examples.
 
+## Proxy Provider
+
+These examples use placeholder proxy credentials so they can work with most HTTP proxy providers.
+
+For dedicated proxy services, you can use providers such as Squid Proxies, Bright Data, Oxylabs, Smartproxy, Decodo, SOAX, NetNut, or IPRoyal depending on your use case, budget, and proxy type.
+
+Squid Proxies: https://www.squidproxies.com/
+
 ## Disclaimer
 
 Use proxies responsibly and follow the terms of service of any website or platform you access.
